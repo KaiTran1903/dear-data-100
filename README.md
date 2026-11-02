@@ -1,2 +1,2 @@
 # dear-data-100
-Dear data data visualisation project for university.
+Dear data data visualisation project for university. I collect data every day at two specific times: 3 PM and 7 PM. The data I collect includes three different things: what I am drinking, the weather, and what I am doing. I use five different letters to record the data. For the first category (drinks), W stands for water, E for energy drink, S for soda, C for coffee, and T for tea. For the second category (weather), W stands for windy, E for extreme heat, S for sunny, C for cloudy, and T for thunder. For the third category (activities), W stands for walking, E for eating, S for studying, C for cooking, and T for texting.
